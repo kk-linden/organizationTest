@@ -1,0 +1,15 @@
+#mydiv {
+    position: absolute;
+    background-color: #d0efff;
+    border: 2px solid;
+    text-align: center;
+    width:100px;
+    height:100px
+  }
+  
+  #mydivheader {
+    padding: 30px;
+    font-family: Calibri;
+    cursor: move;
+    background-color: #d0efff;
+  }
